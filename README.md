@@ -417,18 +417,3 @@ Each targets a specific project or aggregate view within Project Management cont
 
 ---
 
-## 9. Document maintenance
-
-| Field | Value |
-|-------|--------|
-| **Maintainer** | Assign owner in your org. |
-| **Update trigger** | Each minor/patch release of ARKBOX UI or permission model. |
-| **Validation** | Re-walk primary nav and one project end-to-end after upgrades. |
-
----
-
-## 10. Revision history
-
-| Version | Date | Author | Notes |
-|---------|------|--------|--------|
-| 1.0 | 2026-05-13 | Cursor agent | Initial functional spec from demo tenant walkthrough; no screenshots per request. |
